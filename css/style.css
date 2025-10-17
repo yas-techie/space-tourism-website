@@ -1,0 +1,35 @@
+/* === RESET === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #ffffff;
+  background-color: #0b0d17;
+  background-image: url(../assets/home/background-home-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  line-height: 1.5;
+  padding: 2rem;
+}
+
+/* === HEADER === */
+
+.primary-header{
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 1rem;
+}
+
+.logo img {
+  width: 50px;
+}
+
+
+/* === HOME MAIN CONTENT === */
+
+/* === EXPLORE BUTTON === */
