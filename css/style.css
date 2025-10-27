@@ -100,6 +100,73 @@ span{
 
 /* === HOME MAIN CONTENT === */
 
+.home-main{
+  display: flex;
+  margin-top: 100px;
+}
+
+.home-content{
+  flex: 1;
+  margin-left: 72px;
+
+}
+
+.explore-btn{
+  flex: 1;
+  padding: 24px 0 24px 24px;
+  padding-left: 460px;
+
+
+}
+
+h5{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 100;
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #D0D6F9;
+  letter-spacing: 4px;
+}
+
+h1{
+  font-family: 'Bellefair', sans-serif;
+  text-transform: uppercase;
+  font-size: 144px;
+  font-weight: 400;
+}
+
+p{
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #D0D6F9;
+  line-height: 180%;
+  
+
+}
+.ex-btn{
+  background-color: #ffffff;
+  width: 272px;
+  height: 272px;
+  border-radius: 100%;
+  flex: 1;
+  
+}
+
+.explore{
+  font-family: 'Bellefair', sans-serif;
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 400;
+  color: #0b0d17;
+  position: relative;
+  left: 68px;
+  top: 114px;
+  flex: 1;
+
+}
+
+
 
 
 /* === EXPLORE BUTTON === */
